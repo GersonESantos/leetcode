@@ -12,13 +12,13 @@ Uma coisa incrível sobre JavaScript é que seu navegador tem um ambiente de exe
 
 Em JavaScript, há duas maneiras principais de declarar uma função. Uma delas é usar a `function`palavra-chave .
 
-##### Sintaxe [ básica ](https://github.com/GersonESantos/leetcode/tree/main/30dias/01/funcao/basica)
+##### Sintaxe [básica](https://github.com/GersonESantos/leetcode/tree/main/30dias/01/funcao/basica)
 Neste exemplo, fé o nome da função. (a, b)são os argumentos. Você pode escrever qualquer lógica no corpo e, por fim, returnum resultado. Você não pode retornar nada, e, em vez disso, retornará implicitamente undefined.
 
 Função Anônima
 Você pode, opcionalmente, excluir o nome da função após a functionpalavra-chave.
 
-Expressão de Função [ Invocada ] (https://github.com/GersonESantos/leetcode/tree/main/30dias/01/funcao/Invocada)Imediatamente (IIFE)
+Expressão de Função [Invocada](https://github.com/GersonESantos/leetcode/tree/main/30dias/01/funcao/Invocada)Imediatamente (IIFE)
 Você pode criar uma função e executá-la imediatamente em Javascript.
 Por que você escreveria um código assim? Ele lhe dá a oportunidade de encapsular uma variável dentro de um novo escopo . Por exemplo, outro desenvolvedor pode ver imediatamente que sumela não pode ser usada em nenhum lugar fora do corpo da função.
 
