@@ -12,7 +12,7 @@ Uma coisa incrível sobre JavaScript é que seu navegador tem um ambiente de exe
 
 Em JavaScript, há duas maneiras principais de declarar uma função. Uma delas é usar a `function`palavra-chave .
 
-##### Sintaxe básica
+##### Sintaxe [ básica ](https://github.com/GersonESantos/leetcode/tree/main/30dias/01/funcao/basica)
 Neste exemplo, fé o nome da função. (a, b)são os argumentos. Você pode escrever qualquer lógica no corpo e, por fim, returnum resultado. Você não pode retornar nada, e, em vez disso, retornará implicitamente undefined.
 
 Função Anônima
