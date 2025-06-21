@@ -47,13 +47,23 @@ Há três diferenças principais entre a sintaxe de seta e a sintaxe de função
 
 Sintaxe mais minimalista. Isso é especialmente verdadeiro para funções anônimas e funções de linha única. Por esse motivo, essa abordagem é geralmente preferida ao passar funções anônimas curtas para outras funções.
 Sem elevação automática. Você só pode usar a função depois que ela for declarada. Isso geralmente é considerado bom para a legibilidade.
-Não pode ser vinculado a this, supere argumentsou ser usado como construtor. Todos esses são tópicos complexos por si só, mas a conclusão básica é que as funções de seta são mais simples em seu conjunto de recursos. Você pode ler mais sobre essas diferenças aqui .
+
+
+Não pode ser vinculado a `this`, `super`e `arguments`ou ser usado como construtor. Todos esses são tópicos complexos por si só, mas a conclusão básica é que as funções de seta são mais simples em seu conjunto de recursos. Você pode ler mais sobre essas diferenças [aqui](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) .
+
+
+
+
 A escolha entre sintaxe de seta e sintaxe de função depende principalmente da preferência e dos padrões de estilo do seu projeto.
 
-Argumentos de descanso
-Você pode usar a sintaxe REST para acessar todos os argumentos passados ​​como um array. Isso não é necessário para este problema, mas será um conceito crítico para muitos outros. Você pode ler mais sobre ...sintaxe aqui .
+#### Argumentos de descanso
 
-Sintaxe básica
+Você pode usar a sintaxe _**REST**_ para acessar todos os argumentos passados ​​como um array. Isso não é necessário para este problema, mas será um conceito crítico para muitos outros. Você pode ler mais sobre `...`sintaxe [aqui](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) .
+
+##### Sintaxe básica
+
 A sintaxe é:
+
+
 
 
