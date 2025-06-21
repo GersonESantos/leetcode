@@ -40,7 +40,7 @@ A outra maneira comum de declarar funções é com a sintaxe de seta. Aliás, em
 Sintaxe básica
 Neste exemplo, fé o nome da função. (a, b)são os argumentos. Você pode escrever qualquer lógica no corpo e, por fim, returnum resultado. Você não pode retornar nada, e, em vez disso, retornará implicitamente undefined.
 
-Omitir retorno
+[Omitir retorno](https://github.com/GersonESantos/leetcode/tree/main/30dias/01/funcao/Omitir%20retorno)
 Se você conseguir escrever o código em uma única linha, pode omitir a returnpalavra-chave. Isso pode resultar em um código muito curto.
 Diferenças
 Há três diferenças principais entre a sintaxe de seta e a sintaxe de função.
